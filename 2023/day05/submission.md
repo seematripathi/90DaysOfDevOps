@@ -8,4 +8,13 @@
 ![backupscript](https://github.com/seematripathi/90DaysOfDevOps/assets/33751911/d81005ac-fc74-45c1-8754-39cdb7d202a2)
 ![backupresults](https://github.com/seematripathi/90DaysOfDevOps/assets/33751911/906f9d2a-ca81-4ed1-a2d3-947326054c8b)
 
+3.. Create 2 users and just display their Usernames
+
+![usermanagement](https://github.com/seematripathi/90DaysOfDevOps/assets/33751911/f6529961-5c2a-405a-b7ca-d054377f9646)
+![showusername](https://github.com/seematripathi/90DaysOfDevOps/assets/33751911/dd7d679d-2fc6-4274-bc29-e9d2c1d0a102)
+
+
+
+
+
 
