@@ -17,4 +17,4 @@ b-> Install Jenkins
 3.. stop the service jenkins and post before and after screenshots
 ![systemctl](https://github.com/seematripathi/90DaysOfDevOps/assets/33751911/b1990291-10e5-4c5f-b002-a2f57d380ac6)
 
-4.. Systemctl Vs Service - Systemctl is given by systemd . It basically runs the command in the deamon mode , if in any case our system gets closed once we restart the system the service will still be running in the deamon mode whereas if we run the command as a service and the system gets closed in that case after starting the system we again need to up the service.
+4.. Systemctl Vs Service - Systemctl is given by systemd . It basically runs the command in the daemon mode , if in any case our system gets closed once we restart the system the service will still be running in the daemon mode whereas if we run the command as a service and the system gets closed in that case after starting the system we again need to up the service.
